@@ -9,3 +9,4 @@
 利用整數溢位原理，。我們可以用它來溢出```total_cost```變數並增加我們的帳戶餘額。但又不能太大以至於它也會溢出我們的```account_balance```. 我們使用```3000000```。
 
 ![image](https://github.com/Kuanchiayi/CTF_Writeups/blob/main/General%20Skill/flag_shop/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-23%20133703.png?raw=true)
+![image](https://github.com/Kuanchiayi/CTF_Writeups/blob/main/General%20Skill/flag_shop/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-23%20133725.png?raw=true)
