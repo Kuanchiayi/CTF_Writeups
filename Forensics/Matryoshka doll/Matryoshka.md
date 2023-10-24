@@ -10,7 +10,7 @@ Using [Binwalk](https://github.com/ReFirmLabs/binwalk/wiki/Quick-Start-Guide)
 ```
 binwalk dolls.jpg
 ```
-得到
+得到，可以發現存在base_image/2_c.jpg，1u/並且未解壓縮
 ```
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
